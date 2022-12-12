@@ -1,0 +1,5 @@
+bot/
+__pycache__/
+.env
+docker-compose.yml
+nft_auth.db
